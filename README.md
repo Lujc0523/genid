@@ -1,2 +1,2 @@
-# genid
-generation ID
+# ID生成
+自动发号
